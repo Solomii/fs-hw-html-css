@@ -1,0 +1,30 @@
+.header__box {
+  text-align: center;
+}
+
+.header__photo {
+  border-radius: 50%;
+}
+
+.header__navigation {
+  display: flex;
+  justify-content: center;
+}
+
+.header__navigation__list {
+  list-style-type: none;
+}
+
+.header__navigation__list__link {
+  text-decoration: none;
+  padding: 5px;
+  color: gray;
+}
+
+.header__vertical__line {
+  border-right: 1px solid grey;
+}
+
+.bold__line {
+  border-width: 2px;
+}
